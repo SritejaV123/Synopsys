@@ -1,2 +1,1 @@
-# Synopsys
-for science fair
+print "helloword"
